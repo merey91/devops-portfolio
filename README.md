@@ -4,6 +4,8 @@ Collection of DevOps projects including CI/CD pipelines, Docker, Kubernetes, Ter
 
 ## Projects
 
+### linux
+
 ### CI/CD Pipeline Project
 
 
